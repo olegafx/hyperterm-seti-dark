@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-seti-dark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Seti UI dark theme for hyperterm",
   "main": "index.js",
   "scripts": {
