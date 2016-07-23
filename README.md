@@ -1,5 +1,5 @@
 # hyperterm-seti-dark
-Seti UI dark colors for your [HyperTerminal](https://hyperterm.org/)
+Seti UI dark colors for your [HyperTerm](https://hyperterm.org/)
 
 ## Install
 
