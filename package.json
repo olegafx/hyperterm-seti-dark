@@ -1,0 +1,31 @@
+{
+  "name": "hyperterm-seti-dark",
+  "version": "1.0.0",
+  "description": "Seti UI dark theme for hyperterm",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "npm run test",
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegafx/hyperterm-seti-dark.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "seti",
+    "seti-dark",
+    "seti-ui",
+    "theme"
+  ],
+  "author": "Oleg Kislitcyn <olegafx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olegafx/hyperterm-seti-dark/issues"
+  },
+  "homepage": "https://github.com/olegafx/hyperterm-seti-dark#readme",
+  "devDependencies": {
+    "eslint": "^3.1.1"
+  }
+}

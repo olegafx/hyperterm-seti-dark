@@ -1,0 +1,19 @@
+########## Jetbrains ##########
+.idea
+
+########## Node ##########
+node_modules
+npm-debug.log
+
+########## Temp files ##########
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes

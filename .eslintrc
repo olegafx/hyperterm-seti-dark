@@ -1,0 +1,25 @@
+{
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "rules": {
+    "camelcase": [2, {"properties": "never"}],
+    "curly": [2, "all"],
+    "eqeqeq": 2,
+    "global-strict": 0,
+    "indent": [2, 2, {"SwitchCase": 1}],
+    "jsx-quotes": [2, "prefer-double"],
+    "max-params": [2, 3],
+    "no-console": 0,
+    "no-shadow": 1,
+    "no-undef": 1,
+    "no-underscore-dangle": 0,
+    "no-use-before-define": 1,
+    "no-var": 2,
+    "quotes": [2, "single", "avoid-escape"],
+    "object-shorthand": [2, "always"],
+    "semi": 1,
+    "space-before-function-paren": [2, "always"]
+  }
+}
